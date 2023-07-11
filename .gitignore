@@ -1,3 +1,4 @@
 .env
 page_events.db
 __pycache__/
+.idea/
